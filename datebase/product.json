@@ -1,0 +1,260 @@
+{
+  "_id": "1b6a680a-5cd0-4f5e-8e33-97b5eeafcf7e",
+  "detail": {
+    "time": "1000",
+    "banner_url": [
+      "https://img01.yit.com/media/51b53b70-fced-4906-86d2-cb156bf3efdd.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/24908963-6055-44b6-93b4-e612635390b8.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/9e29e886-0777-4b0a-9e3e-f4e0df8264ef.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/23ad87a2-a3dc-4de4-8c20-2530cd2c30db.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "sku": [
+      {
+        "name": "颜色",
+        "value": [
+          "皓月黑",
+          "樱花粉"
+        ]
+      }
+    ],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e舒服到不想脱的鞋子是什么样的？\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"color:rgb(192, 0, 0);font-size:14px;\"\u003e合脚、柔软、透气、轻盈，几乎没有束缚感。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/1d7412aed8df7d7629de838398f6fc71_640X480.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"color:rgb(192, 0, 0);font-size:14px;\"\u003e2018年红点奖的评委会，给了它高度的认可：“精心设计的KOKOLO为受压而紧绷的双脚带来极其愉悦的穿着体验。”\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e微弹柔软的鞋面，Q弹舒适的鞋底，完美贴合双脚，感觉跟只穿了一双袜子一样，轻盈不束缚。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e"
+  },
+  "img_url": "https://img01.yit.com/media/29e1cac6-8469-476d-a57e-91b0eb799321.jpg?imageMogr2/thumbnail/!345x345r/gravity/Center/crop/345x345",
+  "title": "获得过红点奖的室内鞋",
+  "describe": "柔软、透气、轻盈，完美贴合双脚，居家、办公、开车、瑜伽……多种场合可穿",
+  "tag": [
+    "限时优惠"
+  ],
+  "price": "199",
+  "del_price": "299"
+}
+{
+  "_id": "68a4c866-2edd-41e1-894b-f27ca82c812f",
+  "tag": [
+    "满2件打8折",
+    "限时特惠"
+  ],
+  "detail": {
+    "banner_url": [
+      "https://img01.yit.com/media/bd4e298f-9204-4ebb-b97c-4ef691f0788b.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/34bce3d3-1ce4-4520-bb37-e5d3d3e3b568.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/4b10a55d-8781-4c29-95f9-441300aef0c9.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/eaa9e2b6-a183-4c13-bc91-eec1a6b857ba.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "time": "1200",
+    "sku": [],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/08f0bd8125ad385e17c991c64715e6f4_640X381.jpeg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e减肥，无非就是“管住嘴，迈开腿”。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e在保证正常新陈代谢的基础上，热量消耗\u003e热量摄入，身体自然就会瘦下来。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e其实在国外，早就流行一种“代餐奶昔瘦身法”，就是用奶昔来代替正餐，减少热量、脂肪的摄入，达到瘦身目的。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e"
+  },
+  "img_url": "https://img01.yit.com/media/1a1d6548-50a0-4b39-ae23-e27e0bf89b74.jpg?imageMogr2/thumbnail/!345x345r/gravity/Center/crop/345x345",
+  "title": "营养代餐奶昔 饱腹好喝",
+  "describe": "1瓶代1餐，饱腹长达5小时，不运动也能瘦，6种口味",
+  "price": "99",
+  "del_price": "149"
+}
+{
+  "_id": "d978397d-dd90-4320-b46a-c129172d0b16",
+  "detail": {
+    "banner_url": [
+      "https://img01.yit.com/media/d7211f17-e01e-4b19-b363-8a8ea42ff269.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/c187e5c1-9428-4820-a42d-600b4d47dd24.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/52dcbbf8-61df-4ad5-97de-d6705545b085.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "time": "1200",
+    "sku": [],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/a6b2bc758577739881bdcda2add11a35_640X480.jpeg?x-oss-process=image/resize,w_1000\"/\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:15px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:15px;\"\u003e这可是用青藏高原上的野生燕麦，磨成粉冲泡而成的，来自品牌“YERMES”。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-top:15px; margin-bottom:10px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:15px; color: rgb(192, 0, 0);\"\u003e谷物香气浓郁，不含糖、却自带一股清甜滋味，口感是较浓稠的糊状，非常好吃。\u003c/span\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/a5c9a0282a3127aec691a6c771921abc_640X480.gif?x-oss-process=image/resize,w_1000\"/\u003e\u003c/p\u003e\u003cp style=\"margin-top:15px; margin-bottom:10px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:15px; color: rgb(192, 0, 0);\"\u003e野生燕麦百合粉、野生燕麦蕨麻粉\u003c/span\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:15px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:15px;\"\u003e在野生燕麦粉的基础上，分别加入了10%的兰州百合、10%的甘南蕨麻，口感和营养更为丰富。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/a5c9a0282a3127aec691a6c771921abc_640X480.gif?x-oss-process=image/resize,w_1000\"/\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:15px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:15px;\"\u003e在野生燕麦粉的基础上，分别加入了10%的兰州百合、10%的甘南蕨麻，口感和营养更为丰富。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-top:15px; margin-bottom:10px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:15px; color: rgb(192, 0, 0);\"\u003e一小袋燕麦粉的热量差不多就是一个苹果的热量（40大卡），却比吃苹果饱腹多了，作为早餐、营养代餐再合适不过。\u003c/span\u003e\u003c/p\u003e\u003c/div\u003e"
+  },
+  "tag": [
+    "同款第2件半价",
+    "限时特惠"
+  ],
+  "img_url": "https://img01.yit.com/media/fb39df8c-5e9a-4933-b67e-50b3a32c0f0d.jpg?imageMogr2/thumbnail/!345x345r/gravity/Center/crop/345x345",
+  "describe": "青藏高原野生燕麦、兰州甜百合，研磨成粉可直接冲泡，自然清甜、营养饱腹",
+  "title": "野生燕麦百合粉",
+  "price": "69",
+  "del_price": "79"
+}
+{
+  "_id": "dbb12e4b-0348-449c-acf9-d8737876dec4",
+  "detail": {
+    "banner_url": [
+      "https://img01.yit.com/media/4740e852-bd3b-415d-b1ca-b4efa017b75d.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/2354c40d-1453-4a70-aa26-c93e62f9239a.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/1471a3e9-61f8-4f09-9981-a2f6c01b3667.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/14190bce-e2d0-44f8-9088-b8e6df0cbbc6.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/f1ce7e8b-6934-4ef0-af06-fea9c59ba43d.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:342px\" src=\"https://asset.yit.com/media/de7a29328a1800ee396652db683e8fac_640X684.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e夏天的阳光真是让人又爱又恨，爱它灿烂明媚，恨它容易晒黑。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:383px\" src=\"https://asset.yit.com/media/70a60ed9682efa04c997dedd9db83cb6_640X767.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e一遍遍地涂防晒霜、撑阳伞撑到手酸的时候，别忘了草帽也是省事又时髦的防晒宝物。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:328px\" src=\"https://asset.yit.com/media/1a08b4eb2bd857e4e7a391552c590b73_640X659.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e复古感十足的卷边草帽，有着向上飞起的帽檐，俏皮有活力，大大的帽檐能很好地修饰脸型。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e",
+    "time": "1000",
+    "sku": [
+      {
+        "name": "颜色",
+        "value": [
+          "黑色",
+          "浅灰色"
+        ]
+      }
+    ]
+  },
+  "img_url": "https://img01.yit.com/media/f6759d17-749e-4a4c-8fa4-f2811f33cd13.jpg?imageMogr2/thumbnail/!345x345r/gravity/Center/crop/345x345",
+  "title": "天然纸草复古卷边草帽",
+  "describe": "时髦百搭、清凉透气，保护脸部和后颈、防晒伤，做工精细、头围可调节",
+  "price": "179",
+  "del_price": "299",
+  "tag": [
+    "满299减30",
+    "限时特惠"
+  ]
+}
+{
+  "_id": "600fbe10-a19c-4e90-b928-40b02bf6dfd1",
+  "title": "双层三分格垃圾桶",
+  "img_url": "https://img01.yit.com/media/b007d8ad-e7a5-4146-9f73-beb2df30eb63.jpg?imageMogr2/thumbnail/!300x300r/gravity/Center/crop/300x300",
+  "price": "189",
+  "del_price": "198",
+  "describe": "一桶搞定垃圾分类，日系高颜值、专利设计，倒垃圾不弯腰，可轻松推着走",
+  "tag": [
+    "限时特惠",
+    "下单立减30元"
+  ],
+  "detail": {
+    "time": "1200",
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/9db61ad1a9de1d5da1628926b2e10c1a_640X480.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e垃圾分类在上海实施了一段时间了，马上，全国另外45个重点城市也要开始施行。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/e9c854010bef4de2dd3a4d7361e82fef_640X480.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e这款双层三分格垃圾桶，来自家居品牌“和匠”。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e总容量45L，属于中型垃圾桶，适合放在厨房，汇总家里每天产生的各类垃圾。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/5771d2dc25ea819472e8158e3861ead5_640X480.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e设计很人性化，特别好用。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e它高79cm，和台面差不多齐平，扔垃圾不用弯腰，舒舒服服，也不容易把垃圾洒到外面。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e",
+    "banner_url": [
+      "https://img01.yit.com/media/c183ea12-107e-46ca-bcbb-22c24110dd45.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/320977ef-d60e-4763-bd25-3390a63b4405.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/7a014eca-09b9-4fcc-83f4-bb45df3d40fd.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/2c571159-4051-49d1-bde1-c5b7e9e6322c.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "sku": [
+      {
+        "name": "规格",
+        "value": [
+          "32L双层垃圾桶",
+          "45L双层单开盖垃圾桶",
+          "45L双层双开盖垃圾桶"
+        ]
+      }
+    ]
+  }
+}
+{
+  "_id": "6fc7fbe7-c63b-4ab0-97b2-d85cdb9cefa5",
+  "img_url": "https://img01.yit.com/media/997e457c-216b-4bc4-9015-75ce45460f07.jpeg?imageMogr2/thumbnail/!300x300r/gravity/Center/crop/300x300",
+  "price": "185",
+  "del_price": "199",
+  "describe": "把窄小的夹缝变成收纳空间，底部有4个万向轮、方便移动，无需安装",
+  "tag": [
+    "限时购"
+  ],
+  "detail": {
+    "time": "1800",
+    "banner_url": [
+      "https://img01.yit.com/media/60087d8e-7747-4aa8-b73a-2a2ba50f0eda.jpeg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/87770abd-0c1d-41c7-b0a4-acf4ab325131.jpeg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/fa35dba0-0793-4780-b168-aa15835c7b3a.jpeg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/3a26a253-6943-4b60-9572-f94875a95fc7.jpeg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/8eefa4ca-f4ba-4a7f-9134-1c6fdfdeabd2.jpeg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/04cd93fb-081d-4d69-95ab-17b715ad6025.jpeg?imageMogr2/thumbnail/640x"
+    ],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e因为各种各样的原因，很多人家里都会有几处尴尬的小“缝隙”。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e如果把这些夹缝利用起来，也能成为很好的收纳空间。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/SUPPLIER_PRODUCT/DOCUMENT/2f2667229a190a3c37def31791773a3c_640X480.jpeg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e几个抽屉加起来，还是很能装的，非常实用。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/SUPPLIER_PRODUCT/DOCUMENT/642b7a0bce930d0234139f3cd5e31678_640X480.jpeg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e采用PP塑料材质，轻巧耐用。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e米色外框 + 半透明抽屉，配色很日系，简单温馨。\u003cspan style=\"font-size:14px;\"\u003e\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e底下有4个脚轮，可以推着走。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e",
+    "sku": [
+      {
+        "name": "规格",
+        "value": [
+          "2层柜（46.5cm×18cm×50cm）",
+          "3层柜（46.5cm×18cm×70cm）",
+          "4层柜（46.5cm×18cm×90cm）"
+        ]
+      }
+    ]
+  },
+  "title": "宽18cm的缝隙收纳柜"
+}
+{
+  "_id": "7760e442-8860-40ab-8e69-181f72adeea3",
+  "img_url": "https://img01.yit.com/media/5b1185e3-d0f9-4722-b771-ad48adc5f3ab.jpg?imageMogr2/thumbnail/!300x300r/gravity/Center/crop/300x300",
+  "title": "保温、保冷的吸管杯",
+  "price": "149",
+  "del_price": "178",
+  "describe": "美国百年品牌，双层不锈钢杯身、超耐用，可插吸管也可直饮，尺寸也适合车载",
+  "tag": [
+    "限时购",
+    "满2件打8折"
+  ],
+  "detail": {
+    "banner_url": [
+      "https://img01.yit.com/media/2be6e392-ac30-4c0c-bfb7-701ad844164d.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/4c292390-9302-4bb0-80ab-1b554a95a0ff.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/68719941-e2e2-440d-8ff4-23bac6665da3.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/34e1f072-0244-4be2-9202-59fe3d762ebb.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "time": "1400",
+    "sku": [
+      {
+        "name": "颜色",
+        "value": [
+          "黑色",
+          "灰色",
+          "绿色"
+        ]
+      }
+    ],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/dc6946e0f9df03d7d67053dca725511f_640X480.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"color:rgb(192, 0, 0);font-size:14px;\"\u003e温馨提示：\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"color:rgb(192, 0, 0);font-size:14px;\"\u003e1.这款杯子的杯盖和吸管，现已全部改版为透明，文中非透明杯盖\u0026吸管款为老版，已不再供货。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"color:rgb(192, 0, 0);font-size:14px;\"\u003e2.请勿将杯子倒放或横放，以免漏水。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/d52a13518b293f83508c7aee640c3d0c_640X480.jpg?x-oss-process=image/resize,w_1000\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e的功能：喜欢喝咖啡的人，日常还可以用它外带咖啡！既有范儿，咖啡又能保温很长时间，再也不怕一大杯买了以后一下子喝不完变冷了。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e"
+  }
+}
+{
+  "_id": "9386ac3f-04a7-4d64-9b38-184ef0ab40f1",
+  "title": "晴雨两用的迷你胶囊伞",
+  "img_url": "https://img01.yit.com/media/a7b516a3-2705-486c-9f6f-d65a6d490654.jpg?imageMogr2/thumbnail/!300x300r/gravity/Center/crop/300x300",
+  "price": "229",
+  "del_price": "249",
+  "describe": "能阻隔99%紫外线，防水涂层，五折伞，轻巧迷你，多色可选",
+  "tag": [],
+  "detail": {
+    "banner_url": [
+      "https://img01.yit.com/media/1feb3530-714f-4e8a-9a6f-cbc6ac3c93cb.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/cd1df85f-362d-491d-8fff-8be09ca45312.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/f1542b03-f906-4584-a22e-9881fc5afb2a.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/2d69f488-aaa6-4406-a256-04d98f119bcc.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/466d82b1-5959-4c24-8be7-e4ca955c5270.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/seg_img/b4186601b6a8c91c55df5d27d2a00715_640X640.jpeg\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e天气预报说会下雨，只要出门时没下，就懒得带伞了，结果......就悲剧了。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e为什么懒得带伞？因为包小塞不下、伞又大又重、没买好看的......\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/seg_img/cc9d01d02300bc0f06e987cfd0a84fbe_640X480.jpeg\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e胶囊伞的重量只有220g，只比iPhone 8 Plus重一点（iPhone 8 Plus重量：202克 ），随身携带毫无负担。\u003cspan\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;color:rgb(192, 0, 0);\"\u003e一把大小、重量都跟手机一样轻巧，还晴、雨两用的“胶囊伞”，紫外线阻隔率高达99%。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e",
+    "time": "3000",
+    "sku": [
+      {
+        "name": "颜色",
+        "value": [
+          "馥郁红",
+          "仲夏粉",
+          "深灰色",
+          "西柚粉",
+          "赤陶色",
+          "浅葱绿"
+        ]
+      }
+    ]
+  }
+}
+{
+  "_id": "eee62af6-bae7-425c-9948-fca7de6e936d",
+  "price": "52",
+  "del_price": "55",
+  "describe": "小用量，大清洁，可有效去除地板污渍，防止吸附灰尘，恢复光滑亮丽",
+  "tag": [
+    "限时购",
+    "满2件减8折"
+  ],
+  "detail": {
+    "sku": [],
+    "content": "\u003cdiv class=\"content\"\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/seg_img/d7baf7ef88249016142dd23bfbf865e0_640X480.jpg\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e为了让地板在清洁后，不易造成污垢，清洁剂里添加了抗静电剂，可以\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/seg_img/7d9b76d11c310138b4110552e27ca81d_640X640.jpg\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"font-size:14px;\"\u003e清洁剂针对木质地板的特性，特别添加了表面活性剂成分，有着\u003cspan\u003e\u003c/p\u003e\u003cp style=\"text-align:center\"\u003e\u003cimg style=\"width:100%;height:240px\" src=\"https://asset.yit.com/media/seg_img/96aa42265f95e516828013edc808f4fa_640X640.jpg\" /\u003e\u003c/p\u003e\u003cp style=\"margin-bottom:12px; line-height: 1.75;\"\u003e\u003cspan style=\"color:rgb(192, 0, 0);font-size:14px;\"\u003e它的用量可以不用很多，就能完成大量的清洁工作。\u003cspan\u003e\u003c/p\u003e\u003c/div\u003e",
+    "banner_url": [
+      "https://img01.yit.com/media/f1635214-e84e-42e4-b324-cf1a91bb7496.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/54d3ab42-dbc5-424f-86ce-194093b890dc.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/c785bb23-3f9f-474d-82e2-c62a8a31aedd.jpg?imageMogr2/thumbnail/640x",
+      "https://img01.yit.com/media/23d8b419-a8f3-43fe-a420-0c59e7af1e15.jpg?imageMogr2/thumbnail/640x"
+    ],
+    "time": 1500.0
+  },
+  "img_url": "https://img01.yit.com/media/c7435d0d-b563-4473-8bab-b837760c7d54.jpg?imageMogr2/thumbnail/!300x300r/gravity/Center/crop/300x300",
+  "title": "清新好闻的地板清洁剂"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "abd92902-c51f-404f-94db-16782f0c8a9a",
+  "segment": [
+    "精选",
+    "故宫专区",
+    "居家生活",
+    "美食厨房",
+    "服饰珠宝",
+    "美妆洗护",
+    "数码家电",
+    "文创图书",
+    "运动健康"
+  ],
+  "banner": [
+    "https://img01.yit.com/CMSRESQN/9c0e36deb96253a96960df7251b534fc_750X420.jpeg?imageView2/0/w/750",
+    "https://img01.yit.com/CMSRESQN/d78d50368034e002549baed41916c00f_750X420.jpeg?imageMogr2/thumbnail/750x",
+    "https://img01.yit.com/CMSRESQN/a364f70e45016f9b0fc552bad946d4bc_750X420.jpeg?imageMogr2/thumbnail/750x",
+    "https://img01.yit.com/CMSRESQN/06a49789b69ccc037963a6762bed33b4_750X420.jpeg?imageMogr2/thumbnail/750x",
+    "https://img01.yit.com/CMSRESQN/578e6ec49b91db401c1ddadfe0db92c6_750X420.jpeg?imageMogr2/thumbnail/750x"
+  ],
+  "grid": [
+    {
+      "img": "https://img01.yit.com/CMSRESQN/601965861852710ec62497a362c7cdda_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100",
+      "text": "新品专区"
+    },
+    {
+      "img": "https://img01.yit.com/CMSRESQN/9857048533899f48e1664226704ee5e1_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100",
+      "text": "实体店"
+    },
+    {
+      "img": "https://img01.yit.com/CMSRESQN/3702a7387536569a1752ec96624280a9_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100",
+      "text": "视频"
+    },
+    {
+      "text": "美食台",
+      "img": "https://img01.yit.com/CMSRESQN/e1a952258e1edc443d73ef019c3db480_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100"
+    },
+    {
+      "text": "必买推荐",
+      "img": "https://img01.yit.com/CMSRESQN/ba357d454920ac251cf830d773816458_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100"
+    },
+    {
+      "img": "https://img01.yit.com/CMSRESQN/f545b0741962d899693e2e672ecd99a7_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100",
+      "text": "发现好物"
+    },
+    {
+      "text": "VIP专区",
+      "img": "https://img01.yit.com/CMSRESQN/38111531fc1698292d7afa888873ba51_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100"
+    },
+    {
+      "img": "https://img01.yit.com/CMSRESQN/e1f804554e925a2c18d973f76ee2388d_164X164.png?imageMogr2/thumbnail/!100x100r/gravity/Center/crop/100x100",
+      "text": "签到领积分"
+    }
+  ],
+  "ad": "https://img01.yit.com/CMSRESQN/8a1c66910f84b8b147862f304ad2be64_2250X210.jpeg?imageMogr2/thumbnail/750x"
+}
