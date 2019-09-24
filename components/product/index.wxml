@@ -1,0 +1,14 @@
+<l-hover>
+  <l-card full type="cover" image="{{data.img_url}}" title="{{data.title}}" l-class="life-container" l-img-class="life-img" l-title-class="life-title">
+    <view class='life-product-contianer'>
+      <view class='art-content'>{{data.describe}}</view>
+      <view class='peice-container'>
+        <l-price unit="￥" count="{{data.price}}" count-color="#ad0e11" unit-color="#ad0e11" count-size="36"></l-price>
+        <l-price l-class="del-price" unit="￥" count="{{data.del_price}}" count-color="#ad0e11" unit-color="#ad0e11" deleted del-color="#666" count-color="#666" unit-color="#666"></l-price>
+      </view>
+      <view class="tag-container">
+        <l-tag l-class="tag" bg-color="#D87672" wx:for="{{data.tag}}" wx:key="{{index}}" size="mini">{{item}}</l-tag>
+      </view>
+    </view>
+  </l-card>
+</l-hover>

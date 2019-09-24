@@ -1,0 +1,40 @@
+.life-container {
+  width: 350rpx !important;
+  padding: 0 0 20rpx 0 !important;
+  margin-bottom: 15rpx !important;
+  border-radius: 12rpx !important;
+  overflow: hidden;
+}
+
+.life-img {
+  width: 350rpx !important;
+  height: 380rpx !important;
+}
+
+.life-product-contianer {
+  padding: 0 10rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.life-title {
+  margin-left: 10rpx !important;
+}
+
+.tag-container{
+  display: flex;
+}
+
+.tag {
+  height: 30rpx !important;
+  line-height: 30rpx !important;
+  margin-right: 12rpx !important;
+}
+
+.art-content {
+  font-size: 28rpx;
+  color: #999;
+  margin-top: 15rpx;
+  display: flex;
+  flex-wrap: wrap;
+}

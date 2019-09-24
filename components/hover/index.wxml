@@ -1,0 +1,3 @@
+<view hover-class="hover" hover-stay-time="20">
+  <slot/>
+</view>
